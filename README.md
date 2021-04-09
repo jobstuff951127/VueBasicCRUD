@@ -1,4 +1,4 @@
-# VueBasicCRUD
+# Vue basic CRUD
 
 
 Este proyecto es un crud muy basico que realice como examen tecnico para laborar en Muebles America.
